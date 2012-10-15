@@ -1,0 +1,8 @@
+CHGHOST <nickname> <hostmask>
+
+--Change a user's hostmask.
+
+Changes the hostmask of <nickname>
+to <hostmask>.
+
+- Requires Oper Priv: A
